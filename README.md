@@ -1,2 +1,2 @@
-# it-academy-logos-frontend.github.io
+# maryan-888.github.io
 First project
